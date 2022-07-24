@@ -351,19 +351,19 @@ section .title::after{
     top: 0;
     background: crimson;
 }
-.experience-content .right .html::before{
+.experience-content .right .microsoftoffice::before{
     width: 90%;
 }
-.experience-content .right .css::before{
+.experience-content .right .microsoftexcel::before{
     width: 60%;
 }
-.experience-content .right .js::before{
+.experience-content .right .photoediting::before{
     width: 80%;
 }
-.experience-content .right .php::before{
+.experience-content .right .videoediting::before{
     width: 50%;
 }
-.experience-content .right .mysql::before{
+.experience-content .right .html::before{
     width: 70%;
 }
 /* gallery section styling */
